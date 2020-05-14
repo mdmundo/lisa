@@ -1,0 +1,114 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lisa.com" resolutions="1x" timestamp="1589451340749">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="3978210498" ref="index"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="4057680320" ref="index"/>
+    <file name="nomq_index.css" crc="4178325746" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="muse-for-you-image-14.jpg" crc="2232962" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="muse-for-you-image-8.jpg" crc="75241203" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 210999x46_poster_.png" crc="4199116601" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 26299x245_poster_.png" crc="3902663022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-177607x194.svg" crc="414312688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-177607x194_poster_.png" crc="4265690982" ref="index"/>
+    <file name="pasted-svg-562873x473.svg" crc="3856466773" seo="true" ref="index">
+      <caption webpage="index" alt="An SVG image of a girl with coffee"/>
+      <caption webpage="index" alt="An SVG image of a girl with coffee"/>
+      <caption webpage="index" alt="An SVG image of a girl with coffee"/>
+      <caption webpage="index" alt="An SVG image of a girl with coffee"/>
+      <caption webpage="index" alt="An SVG image of a girl with coffee"/>
+    </file>
+    <file name="pasted-svg-562873x473_poster_.png" crc="4006915701" ref="index"/>
+    <file name="pasted-svg-185423x198.svg" crc="3839589599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-185423x198_poster_.png" crc="4248781962" ref="index"/>
+    <file name="pasted-svg-186678x226.svg" crc="23627203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-186678x226_poster_.png" crc="3815227453" ref="index"/>
+    <file name="pasted svg 189073x40_poster_.png" crc="130126855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-73031x18.svg" crc="429705535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-73031x18_poster_.png" crc="478464146" ref="index"/>
+    <file name="pasted-svg-93941x21.svg" crc="3774328906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-93941x21_poster_.png" crc="322981563" ref="index"/>
+    <file name="pasted-svg-177607x187.svg" crc="4087143155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-177607x187_poster_.png" crc="4242415828" ref="index"/>
+    <file name="muse-for-you-image-14-u94-fr.jpg" crc="3965144859" ref="index"/>
+    <file name="muse-for-you-image-8-u2247-fr.jpg" crc="526102873" ref="index"/>
+    <file name="muse-for-you-image-14-u94-fr2.jpg" crc="4073097596" ref="index"/>
+    <file name="muse-for-you-image-8-u1509-fr.jpg" crc="4268177304" ref="index"/>
+    <file name="muse-for-you-image-14-u94-fr3.jpg" crc="231219080" ref="index"/>
+    <file name="muse-for-you-image-8-u2332-fr.jpg" crc="281940040" ref="index"/>
+    <file name="muse-for-you-image-14-u94-fr4.jpg" crc="21072980" ref="index"/>
+    <file name="muse-for-you-image-8-u2332-fr2.jpg" crc="3892712322" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3914145227" seo="true" mt="1589451268335" redirect="true"/>
+</manifest>
